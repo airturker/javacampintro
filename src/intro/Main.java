@@ -3,8 +3,8 @@ package intro;
 public class Main {
 
 	public static void main(String[] args) {
-		// camelCase (ilk küçük diðerleri büyükle baþla)
-				// don't repeat yourself
+		// camelCase (ilk küçük diðerleri büyükle baþla )
+				// don't repeat yourself DRY
 				String internetSubeButonu = "Ýnternet Þubesi";
 				double dolarDun = 8.20;
 				double dolarBugun = 8.20;
